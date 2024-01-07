@@ -10,5 +10,9 @@
     {
         "package": "data.iquizoo",
         "url": "https://github.com/psychelzh/data.iquizoo"
+    },
+    {
+        "package": "zutils",
+        "url": "https://github.com/psychelzh/zutils"
     }
 ]
