@@ -14,5 +14,13 @@
     {
         "package": "zutils",
         "url": "https://github.com/psychelzh/zutils"
+    },
+    {
+        "package": "cpmr",
+        "url": "https://github.com/psychelzh/cpmr"
+    },
+    {
+        "package": "data.camp",
+        "url": "https://github.com/CAMP-BNU/data.camp"
     }
 ]
