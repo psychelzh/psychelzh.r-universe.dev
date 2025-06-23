@@ -1,17 +1,5 @@
 [
     {
-        "package": "tarflow.iquizoo",
-        "url": "https://github.com/iquizoo/tarflow.iquizoo"
-    },
-    {
-        "package": "preproc.iquizoo",
-        "url": "https://github.com/iquizoo/preproc.iquizoo"
-    },
-    {
-        "package": "data.iquizoo",
-        "url": "https://github.com/iquizoo/data.iquizoo"
-    },
-    {
         "package": "zutils",
         "url": "https://github.com/psychelzh/zutils"
     },
